@@ -1,20 +1,23 @@
-<h2 align="center">Hi 👋, I'm Lena — A Passionate Data Analyst from India</h2>
+<h2 align="center">Hi 👋, I'm Lena</h2>
+<h4 align="center">
+Final-year BSc Computer Science student | Aspiring Data Analyst
+</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76D6D&width=435&lines=Data+Analyst+📊;BSc+Computer+Science+Student;Lifelong+Learner+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=500&lines=Data+Analysis+with+Python+%26+SQL;Power+BI+Dashboards+%26+Insights;Turning+Data+into+Decisions" />
 </p>
 
 ---
 
-<!-- Animated GIF -->
-<img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🧠 About Me
-- 🌱 Currently learning: **SQL | Python | Power BI | Excel | Data Visualization**
-- 📊 Interested in: **Data Cleaning, Analysis & Visualization**
-- 💬 Ask me about: **Python, SQL, Excel, Data Storytelling**
-- 📧 Reach me: `00lena11@gmail.com`
-- 🎯 2025 Goal: Become a **professional Data Analyst** & contribute to open source
+### 👩‍💻 About Me
+- 🎓 Final-year **BSc Computer Science** student (India)
+- 📊 Focused on **Data Analysis, Visualization & Reporting**
+- 🧠 Skilled in **Python, SQL, Power BI, Excel**
+- 🔍 Interested in **data cleaning, EDA & business insights**
+- 🛠 Currently building an **Automated Examination Evaluation System**
+- 📧 Reach me at: **lenabasheerlena@gmail.com**
 
 ---
 
@@ -24,15 +27,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyCharm_Icon.svg" height="30" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matplotlib_icon.svg" height="30" />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Power_bi_logo_black.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Excel_2013-2019_logo.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
   <img width="12" />
@@ -41,15 +40,20 @@
 
 ---
 
-### 📬 Connect with Me
+### 📌 What You’ll Find Here
+- 📁 **Data analysis projects** using real datasets
+- 📊 **Dashboards & visualizations**
+- 🧪 **Python & SQL practice for analytics**
+- 🎓 Final-year **academic + applied projects**
+
+---
+
+### 🔗 Connect with Me
 <div align="left">
-  <a href="https://github.com/codewith-lena" target="_blank">
+  <a href="https://github.com/LenaBasheer27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/lenabasheer-dataanalyst" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
