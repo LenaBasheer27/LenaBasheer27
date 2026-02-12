@@ -22,21 +22,13 @@ Final-year BSc Computer Science student | Aspiring Data Analyst
 ---
 
 ### 🧰 Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Power_bi_logo_black.svg" height="30" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Excel_2013-2019_logo.svg" height="30" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-</div>
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/8/84/Power_bi_logo_black.svg)
+![Excel](https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Excel_2013-2019_logo.svg)
+![Plotly](https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
 
 ---
 
@@ -59,16 +51,14 @@ Final-year BSc Computer Science student | Aspiring Data Analyst
 ---
 
 ### 📊 GitHub Stats
-![Lena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LenaBasheer27&show_icons=true&theme=radical)
+![Lena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LenaBasheer27&show_icons=true&theme=radical&count_private=true)
 
 ---
 
 ### 🔗 Connect with Me
-<div align="left">
-  <a href="https://github.com/LenaBasheer27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lenabasheer-dataanalyst" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+<a href="https://github.com/LenaBasheer27" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/lenabasheer-dataanalyst" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
