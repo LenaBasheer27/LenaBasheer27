@@ -40,11 +40,26 @@ Final-year BSc Computer Science student | Aspiring Data Analyst
 
 ---
 
+### 📁 Featured Projects
+- **Automated Exam Evaluation System** – Python-based system for grading & dashboards.  
+  Role: Full Project Developer | [Repo Link](https://github.com/lena-basheer/automated-exam-evaluation-system)  
+- **Salesforce Property Management System** – Flow, Apex, and validation rules automation.  
+  Role: Flow & Automation Developer | [Repo Link](https://github.com/lena-basheer/salesforce-property-management-system)  
+- **Data Analysis Mini Projects** – EDA, dashboards, SQL practice.  
+  Role: Analyst | [Example Notebooks / Repo Link]
+
+---
+
 ### 📌 What You’ll Find Here
 - 📁 **Data analysis projects** using real datasets
 - 📊 **Dashboards & visualizations**
 - 🧪 **Python & SQL practice for analytics**
 - 🎓 Final-year **academic + applied projects**
+
+---
+
+### 📊 GitHub Stats
+![Lena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LenaBasheer27&show_icons=true&theme=radical)
 
 ---
 
