@@ -22,13 +22,13 @@ Final-year BSc Computer Science student | Aspiring Data Analyst
 ---
 
 ### 🧰 Tech Stack
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/8/84/Power_bi_logo_black.svg)
-![Excel](https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Excel_2013-2019_logo.svg)
-![Plotly](https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Power_bi_logo_black.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Excel_2013-2019_logo.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
 
 ---
 
